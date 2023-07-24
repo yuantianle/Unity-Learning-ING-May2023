@@ -1,0 +1,10 @@
+*.sln
+/Library
+/Logs
+/obj
+/.vscode
+/UserSettings
+/Temp
+/.idea
+*.csproj
+Assets/.DS_Store
